@@ -1,0 +1,9 @@
+streamlit
+gradio
+pdfplumber
+langchain
+sentence-transformers
+langchain-groq
+langchain-core
+langchain-community
+faiss-cpu
